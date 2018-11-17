@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 from waflib.TaskGen import feature, before_method
 import os
